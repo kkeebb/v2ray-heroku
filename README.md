@@ -1,6 +1,6 @@
 # VLESS Heroku
 
-**Heroku 已经封禁本专案，请 Fork 本专案后，将 `README.md` 中的 `bclswl0827` 替换为自己的用户名后，再进行部署。**
+**Heroku 已经封禁本专案，请 Fork 本专案后，将 `README.md` 中的 `kkeebb` 替换为自己的用户名后，再进行部署。**
 
 ## 概述
 
@@ -8,7 +8,7 @@
 
 部署完成后，每次启动应用时，运行的 V2Ray 将始终为最新版本。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/bclswl0827/v2ray-heroku/tree/vless)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/kkeebb/v2ray-heroku/tree/vless)
 
 ## 部署
 
@@ -16,7 +16,7 @@
 
 | 变量 | 默认值 | 说明 |
 | :--- | :--- | :--- |
-| `ID` | `ad806487-2d26-4636-98b6-ab85cc8521f7` | VLESS 用户 ID，用于身份验证，为 UUID 格式 |
+| `ID` | `6c09577c-8fc6-4fff-a5d2-daf1d47b3888` | VLESS 用户 ID，用于身份验证，为 UUID 格式 |
 | `WSPATH` | `/` | WebSocket 所使用的 HTTP 协议路径 |
 
 ## 接入 CloudFlare
