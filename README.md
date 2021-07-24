@@ -16,7 +16,7 @@
 
 | 变量 | 默认值 | 说明 |
 | :--- | :--- | :--- |
-| `ID` | `6c09577c-8fc6-4fff-a5d2-daf1d47b3888` | VLESS 用户 ID，用于身份验证，为 UUID 格式 |
+| `ID` | `ad806487-2d26-4636-98b6-ab85cc8521f7` | VLESS 用户 ID，用于身份验证，为 UUID 格式 |
 | `WSPATH` | `/` | WebSocket 所使用的 HTTP 协议路径 |
 
 ## 接入 CloudFlare
